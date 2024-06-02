@@ -1,4 +1,7 @@
-export const links = [
+import {Link }   from "../prisma/types/link";
+
+
+export const links:Link[] = [
   {
     category: "Open Source",
     description: "Fullstack React framework",

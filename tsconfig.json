@@ -23,7 +23,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "prisma/types/link.ts"  ],
   "exclude": [
     "node_modules"
   ]
